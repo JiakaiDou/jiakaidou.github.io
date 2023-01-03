@@ -1,0 +1,216 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/v-jidou/Desktop/walkthrough2",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Class2.Class2.InnerClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Class2.Class2.InnerClass.html",
+          "hash": "cH2CeJV+5vruDT3a6Jx3R1Y7aqxVr9dXvy+Wf9iUlgA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Class2.Class2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Class2.Class2.html",
+          "hash": "Ux2LDOEVVomJ2b38ZWIJlmJlVprcdnWWSEZSkU4EKqQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Class2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Class2.html",
+          "hash": "m2z/h1XdxtyZnHDGo+vK5OH2cxqe6l3GQ4AMcEDIRso="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HelloDocfx.Class1.InnerClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HelloDocfx.Class1.InnerClass.html",
+          "hash": "Y6Ti8Gs4ilfnwX6wu+ZVv+ojFPpjryAgx9JIB3QeeGo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HelloDocfx.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HelloDocfx.Class1.html",
+          "hash": "LyFIekJPm7q2uX7jKw2eXSc1Me/1ma+NAp24mjV6MjA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HelloDocfx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HelloDocfx.html",
+          "hash": "kj5CP0kTAcfPqe719ijnEgt3nQr5JVkvZqHxHYqhs0M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "nVAkNZPz3uRzEF2aIzmcbuqCJ366edjfwRPuK7viB3w="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details1.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details1.html",
+          "hash": "ZSFMmqFYzYgxgIVMPHQQ7BbNI1iKW5HQRBAmX2beLbQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details2.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details2.html",
+          "hash": "dn+n/bn54IQHqVOzlIl0fTVjttDbd/4lz2f8gddMv78="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details3.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details3.html",
+          "hash": "9V1wcfSB+5jCv3QTQO4eJA48SMqi/4ys1fK5+/hbVso="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "azm++sR1Za9HaOwVBK1YbYT5AAHFTtWKQJLBopShssY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/details1_image.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/details1_image.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "c+8r1erACVUblT76YLlwUl3zH9U8Pl6OIphuCR+Il+U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 6
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
